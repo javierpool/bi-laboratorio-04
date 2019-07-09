@@ -1,2 +1,2 @@
-# Laboratorio04IN
+# Laboratorio 04
 Laboratorio 04
